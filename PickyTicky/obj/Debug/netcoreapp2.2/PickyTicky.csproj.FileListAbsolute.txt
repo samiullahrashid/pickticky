@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\bin\Debug\netcoreapp2.2\PickyTicky.deps.json
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\bin\Debug\netcoreapp2.2\PickyTicky.runtimeconfig.json
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\bin\Debug\netcoreapp2.2\PickyTicky.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\bin\Debug\netcoreapp2.2\PickyTicky.dll
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.RazorAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\bin\Debug\netcoreapp2.2\PickyTicky.pdb
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.dll
+C:\Users\ADMIN\source\repos\PickyTicky\PickyTicky\obj\Debug\netcoreapp2.2\PickyTicky.pdb
